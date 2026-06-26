@@ -54,9 +54,6 @@ The database also contains `student2` through `student5`, each with password
 `12345`.
 
 
-Then update the password in `config/database.properties`. This local file is
-ignored by Git so a real password is not published.
-
 JDBC Driver
 
 Download Microsoft SQL Server JDBC driver and place the `.jar` file in `lib/`. The launcher
@@ -114,5 +111,5 @@ YouTube link: **ADD YOUR YOUTUBE LINK**
 
 
 
-Repository link: **ADD YOUR GITHUB LINK**
+Repository link: **https://github.com/moengilsan/danendra_116-swing-game-project**
 
