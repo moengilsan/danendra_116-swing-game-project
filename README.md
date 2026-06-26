@@ -37,6 +37,7 @@ FunPro Arena is a simple Tic-Tac-Toe game built with Java Swing and Microsoft SQ
 
 ```text
 .
+├── config/                 Database connection settings
 ├── src/                    Java application classes
 ├── database/schema.sql     One-table database schema and sample users
 ├── lib/                    SQL Server JDBC driver
@@ -83,29 +84,20 @@ Screenshots
 
 ### Login Window
 
-<img width="480" height="560" alt="login-window" src="https://github.com/user-attachments/assets/ba63109a-e625-443e-9623-27e4b5275d7b" />
+<img width="423" height="419" alt="Screenshot 2026-06-26 at 12 08 14" src="https://github.com/user-attachments/assets/7d7012cb-bb30-415f-a002-82e377bd2bde" />
+
 
 
 Game Window
 
-<img width="590" height="680" alt="game-window" src="https://github.com/user-attachments/assets/c12b1f51-08c6-4221-9ec4-06f3fdb2efe1" />
+<img width="508" height="587" alt="Screenshot 2026-06-26 at 12 09 11" src="https://github.com/user-attachments/assets/e578e13c-eb38-4d48-a6a6-a00256e88863" />
+
 
 
 Top 5 Scorers
 
-<img width="700" height="460" alt="top-scorers-window" src="https://github.com/user-attachments/assets/be1ebdfd-f74c-4baa-b2fc-a7ae71ff78e4" />
+<img width="691" height="455" alt="Screenshot 2026-06-26 at 12 08 51" src="https://github.com/user-attachments/assets/0cf940ce-425c-4eae-96ba-ccb5263705bd" />
 
-
-Testing Performed
-
-- Compilation using Java 25
-- Valid and invalid move checks
-- Row, column, and diagonal winner checks
-- Draw detection
-- Computer move generation
-- Correct and incorrect database login
-- Statistics update and database persistence
-- Top 5 retrieval with a maximum of five players
 
 
 
