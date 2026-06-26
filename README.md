@@ -37,7 +37,7 @@ FunPro Arena is a simple Tic-Tac-Toe game built with Java Swing and Microsoft SQ
 .
 ├── src/                    Java application classes
 ├── database/schema.sql     One-table database schema and sample users
-├── lib/                    MySQL JDBC driver
+├── lib/                    SQL Server JDBC driver
 └── screenshots/            Required GUI screenshots
 
 ```
@@ -63,7 +63,7 @@ Download Microsoft SQL Server JDBC driver and place the `.jar` file in `lib/`. T
 looks for a filename like:
 
 ```text
-mysql-connector-j-9.7.0.jar
+mssql-jdbc-13.4.0.jre11.jar
 ```
 
 Class Explanation
