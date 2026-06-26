@@ -36,15 +36,10 @@ FunPro Arena is a simple Tic-Tac-Toe game built with Java Swing and Microsoft SQ
 ```text
 .
 ├── src/                    Java application classes
-├── test/                   Logic and database tests
 ├── database/schema.sql     One-table database schema and sample users
-├── config/                 Local database configuration
 ├── lib/                    MySQL JDBC driver
-├── screenshots/            Required GUI screenshots
-├── compile.sh              Compilation helper
-├── setup_mssql.sh          SQL Server database setup helper
-├── run.sh                  Application launcher
-└── test.sh                 Automated test runner
+└── screenshots/            Required GUI screenshots
+
 ```
 
 
