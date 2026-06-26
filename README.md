@@ -5,10 +5,12 @@ Student Information
 - Name: Danendra Yurafadi
 - Student ID: 5026251116
 - Class: Q
+- Course: ES234211 - Programming Fundamental
 
 ## Project Description
 
 FunPro Arena is a simple Tic-Tac-Toe game built with Java Swing and Microsoft SQL Server. Players log in using database credentials, play against a computer, save their results, view personal statistics, and view the Top 5 scorers.
+
 ## Features
 
 - Swing login window with successful and failed login handling
